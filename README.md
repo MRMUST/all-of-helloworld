@@ -4,6 +4,7 @@
 # 업데이트 로그
 
 11월 27일
+R , D , C# , C++ , Java2  , C++2 , sql , groovy , javaScript , Swift 
 
 Java , Python , C 추가
 
