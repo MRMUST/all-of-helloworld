@@ -9,7 +9,7 @@ Java , Python , C 추가
 =====================================================
 
 11월 28일
-R , D , C# , C++ , JavaScript , C++2 , sql , groovy , javaScript2 , Swift , go 추가
+R , D , C# , C++ , JavaScript , C++2 , sql , groovy , javaScript2 , go 추가
 
 
 =====================================================
