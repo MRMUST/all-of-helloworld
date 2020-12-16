@@ -20,5 +20,5 @@ Lua , Ahui , HTML 추가
 
 ## 12월 16일
 ```
-UM - Lang , Visual Basic , 허영... , ㅇㅈ , Unicat , perl , asm 추가
+UM - Lang , Visual Basic , 허영... , ㅇㅈ , Unicat , perl , asm ,  pascal , q 추가
 ```
