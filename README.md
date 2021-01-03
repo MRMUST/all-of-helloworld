@@ -3,6 +3,10 @@
 
 # 업데이트 로그
 
+## 2020년
+```
+```
+
 ## 11월 27일
 ```
 Java , Python , C 추가
@@ -20,5 +24,18 @@ Lua , Ahui , HTML 추가
 
 ## 12월 16일
 ```
-UM - Lang , Visual Basic , 허영... , ㅇㅈ , Unicat , perl , asm ,  pascal , q , kotlin , homespring , scratch , AppleScript추가
+UM - Lang , Visual Basic , 허영... , ㅇㅈ , Unicat , perl , asm ,  pascal , q , kotlin , homespring , scratch , AppleScript 추가
 ```
+
+## 2021년
+```
+```
+
+## 1월 3일
+```
+Q# , Ruby , Cobal ,  HQ9+ , TypeScript 추가
+
+TXT , Perl 수정
+```
+
+
