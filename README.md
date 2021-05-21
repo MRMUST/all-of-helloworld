@@ -44,7 +44,9 @@ TXT , Perl 수정
 
 ## 5월 21일
 ```
-xpp,xhtml,혀엉(수정),
+xpp,xhtml,Whirl,قلب,μλ 추가
+
+혀엉 수정
 ````
 
 
