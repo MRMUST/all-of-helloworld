@@ -52,7 +52,7 @@ xpp,xhtml,Whirl,قلب,μλ,gravity 추가
 
 ## 5월 23일
 ```
-bat 추가
+bat,abc,E 추가
 ````
 
 
