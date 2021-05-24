@@ -55,4 +55,9 @@ xpp,xhtml,Whirl,قلب,μλ,gravity 추가
 bat,abc,E 추가
 ````
 
+## 5월 24일
+```
+Boo 추가
+````
+
 
